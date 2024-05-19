@@ -12,7 +12,7 @@
             >> annotations  >> img_1.txt  (describes Object_1)
 
 >> test  >> images       >> img_1.jpg (shows Object_1 and Object_n)
-         >> annotations  >> img_151.txt (describes Object_1,and Object_n)
+         >> annotations  >> img_1.txt (describes Object_1,and Object_n)
 
 Для запуска обучения модели открываем файл train_model.py
 
